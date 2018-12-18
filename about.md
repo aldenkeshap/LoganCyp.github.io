@@ -29,11 +29,9 @@ I am currently working on my science fair project, it uses
 
 ***
 
-* [**Broadcom Master**](#) 
-  I participated in the broadcom masters science fair.
-    
+* [**1st Place Regional Science Fair**](#) 
 
-***
+   I received first place in the Computer Science category in the Junior Division at the regional science fair. 
 
 
 ## Contact me
