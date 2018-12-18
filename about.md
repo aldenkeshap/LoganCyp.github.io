@@ -29,9 +29,8 @@ I am currently working on my science fair project, it uses
 
 ***
 
-* [**1st Place Regional Science Fair**](#) 
-
-   I received first place in the Computer Science category in the Junior Division at the regional science fair. 
+* [**Top 2000 Broadcom Master**](#) 
+    I participated in the Broadcom Masters science fair in the computer science category, I got in the top 2000.
 
 
 ## Contact me
