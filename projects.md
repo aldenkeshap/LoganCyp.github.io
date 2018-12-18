@@ -16,6 +16,9 @@ This project uses Python with the open source library OpenCV, XlsxWriter, and Sq
 
 ## Other Projects
 
+### Raspberry Pi PS4
+This project uses a Raspberry Pi running RecalBox. It utilizes a custom PCB controller that uses buttons and the RecalBox backend. I then made a case exposing a ports and the SD card slot. The case was created in Fusion 360 and assembled with glue. It is powered by a 5v source and requires an HDMI or A/V screen.
+
 ### Dicom Viewer in Python
 This project uses Python and PyDicom to view medical grade images in a Matplotlib window, implemented features include a zoom in and out, a 3D view, and a quality GUI.
   
