@@ -8,36 +8,32 @@ I am Logan Cypser, I am 15 years old and I attend Albemarle High School and I am
 
 I am currently working on my science fair project, it uses
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+
 
 
 ## Skills
 
-* **Programming** - `Matlab` / `Python` / `Swift` 
-* **Web Development** - `HTML` / `SCSS` / `JavaScript` / `Jekyll` / `Node.Js`
-* **Data Science** - `Machine Learning` / `Microsoft Excel` / `R`
-* **Engineering** - `Raspberry Pi` / `Fusion 360` / `Arduino` 
+* **Programming** - Matlab / Python / Swift 
+* **Web Development** - HTML / SCSS / JavaScript / Jekyll / Node.Js
+* **Data Science** - Machine Learning / Microsoft Excel / R
+* **Engineering** - Raspberry Pi / Fusion 360 / Arduino 
 
     
     
 ## Achievements
 
 
-* [**Science Fair**](#) 
+* [**1st Place Regional Science Fair**](#) 
+  I received first place in the Computer Science category in the Junior Division at the regional science fair. 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* [**Broadcom Master**](#) 
+  I participated in the broadcom masters science fair.
+    
 
 ***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
 ## Contact me
