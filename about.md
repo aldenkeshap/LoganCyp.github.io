@@ -10,15 +10,6 @@ I am currently working on my science fair project, it uses
 
 Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-## Education
-
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
 
 ## Skills
 
